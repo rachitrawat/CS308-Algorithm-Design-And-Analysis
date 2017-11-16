@@ -1,0 +1,9 @@
+5
+7
+add algorithms
+add AlgorithMs
+check 4
+find algo
+find algorithms
+del AlgorithMs
+check 1
